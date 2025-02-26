@@ -12,7 +12,7 @@ A Spring Boot application that calculates points for receipts based on specific 
 
 1. **Clone or download the repository**
    ```bash
-   git clone https://github.com/yourusername/receipt-processor.git
+   git clone https://github.com/DeepManuPy/receipt-processor.git
    cd receipt-processor
    ```
 
